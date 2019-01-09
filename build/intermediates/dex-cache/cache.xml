@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_c144f32ad89f70107f7c2a51cbd22321681c1db6.jar" />
+    </item>
+    <item
+        jar="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_f908d0f122dcb8446acc0785f92d5a004dd8845b.jar" />
+    </item>
+    <item
+        jar="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_a53f4600967b168541f8264cc2d815832f955c4a.jar" />
+    </item>
+    <item
+        jar="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_5a84752d9a73543b3fe7ad77f7baa6a8b102299e.jar" />
+    </item>
+    <item
+        jar="/home/satyabrata/Android_SDK/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_c2dfa1e2f9b79167869187b643292f7d471caf66.jar" />
+    </item>
+    <item
+        jar="/home/satyabrata/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/1.0-rc5/4d15bfec5956b906a26527dbde26a4fc84326611/baseLibrary-1.0-rc5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d15bfec5956b906a26527dbde26a4fc84326611">
+        <dex dex="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/pre-dexed/debug/baseLibrary-1.0-rc5_0eb8ea486f43400624d383b1b51f9b5bac634c4a.jar" />
+    </item>
+    <item
+        jar="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/exploded-aar/com.android.databinding/library/1.0-rc3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="acaeec786da68e5cfc30134c36cb5645a8a0c6ba">
+        <dex dex="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.0-rc3_085b93b73b3032159c64e4ba2fe74424f80d85f8.jar" />
+    </item>
+    <item
+        jar="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.0-rc3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2af1f443cdb8cb78e1195b9b99013a6089ab35b0">
+        <dex dex="/home/satyabrata/Desktop/AndroidWorkshop/Material-Animations/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.0-rc3_dab64901b765021efb351c14d069a6481ae8efc6.jar" />
+    </item>
+
+</items>
